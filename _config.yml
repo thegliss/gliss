@@ -1,0 +1,17 @@
+# Site settings
+title: Dawson Reviews
+header-img: img/home-bg.jpg
+email: brennan@null.net
+description: "Handcrafted Music Reviews from the 21st Century."
+baseurl: ""
+url: "http://dawsonreviews.github.io"
+twitter_username: dawsonreviews
+github_username:  brennanbrown
+facebook_username:  dawsonreviews
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
