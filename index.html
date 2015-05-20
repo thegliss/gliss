@@ -13,6 +13,11 @@ description: ""
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        {% if post.description %}
+        <h4 class="post-subtitle">
+        {{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}
+        </h4>
+        {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
