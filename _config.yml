@@ -1,13 +1,13 @@
 # Site settings
-title: Dawson Reviews
+title: The Gliss
 header-img: img/home-bg.jpg
-email: HarmonikReviews@outlook.com
+email: mail@thegliss.com
 description: "Handcrafted Music Reviews from the 21st Century."
 baseurl: ""
-url: "http://harmonik.github.io"
-twitter_username: dawsonreviews
+url: "http://thegliss.github.io"
+twitter_username: thegliss
 github_username:  brennanbrown
-facebook_username:  dawsonreviews
+facebook_username:  thegliss
 
 # Build settings
 markdown: kramdown

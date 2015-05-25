@@ -7,7 +7,7 @@ author:     "Dawson Brown"
 header-img: "img/crust.png"
 ---
 
-### Let's talk about the underground
+### Let's talk about the underground. &nbsp;
 
 I'm a fan of black metal. I haven't been involved for long and I'm certainly not delving deep into the underground like most "trve" black metal fans. I don't know any local acts, and I can't even say I agree with the ideology or that I even understand the culture, but I am still a big fan of black metal. Surely about 10-20 years ago I could have been made fun of for not diving deep into the culture. I could have been made fun of for being a poseur, and I could have also even been killed; I know the brutality of the subgenre, but as time went on something has changed. People from all spectrums are talking about black metal, they're talking about it on public forums and are discussing the fine details of black metal songs, or albums, or artists. 
 
@@ -21,7 +21,7 @@ Interestingly, I rarely see anyone talk about black metal as exclusive, and anti
 The underground is becoming engraved into the mainstream.
 
 
-### Let's talk about Crust Punk and Black Metal
+### Let's talk about Crust Punk and Black Metal. 
 
 I imagine that most people know what crust punk is. This form of hardcore punk has been making increased waves into mainstream media and culture, particularly the look and style of crust punk which is starting to be replicated in modern fashion. Crust Punk is generally known for being an extremely left wing associated genre, usually people who partake into the culture are slightly less than militant anarchists with a "fuck you" attitude alongside an energetic "fuck yeah" personality. I can't say I'm an avid fan of crust punk but I enjoy its qualities in my own way and I take from that genre just like any movement.
 
@@ -37,12 +37,12 @@ I have noticed that a same situation had arose with the black metal scene in Nor
 Then suddenly as if overnight, second wave black metal had died, with only the angry teenagers and select acts working themselves out over their own anger left. The anger turned into extreme political ideologies, particularly with national socialism. Then that slowed down before the new accessible forms of black metal came along, "untrve black metal" was the name the original black metal fans gave the atmospheric black metal and post metal scenes. Then people started talking about black metal like any other genre, and black metal became mainstream for the underground.
 
 
-### Let's talk about Straight Edge
+### Let's talk about Straight Edge. 
 
 The mainstream made Black Metal switch on its heels and the angry teenager who dreams about church burnings and unholy acts was no longer the focal point. The anger in that genre was uncontrolled until it went off the platform and fell flat on its face. Straight Edge was about controlled release of anger, and a lot of people believe that Straight Edge was a very successful movement in the punk scene. Bands like minor threat were making waves in punk rock sound, as well as with their music. I can never speak for minor threat, I never lived in the 80's or much of the 90's. However I can see that there was some look into invading mainstream culture, and it worked. The straight edge "x" is now an icon of a successful music movement. It even helped develop hardcore punk into a more respectable form, and straight edge can be associated with post-hardcore!
 
 
-### So what makes a successful music movement?
+### So what makes a successful music movement? 
 
 The politics of black metal is, admittedly, a failure, which is very disappointing even for someone like me who's a Christian law abiding citizen who wears plain clothing everyday. One can only wonder why so many political and social movements never see the light of day in a world where seemingly everyone wants to make a change when they see a problem, be it on certain ends of spectrums as well as with radically different life experiences for each person etc. First off, all these movements attracted very young people. These were people who wanted to rebel against something and possibly get angry over everything. In black metal, young kids were angry at the church, and radically for pagan and satanic ideals. In the straight edge movement, punk kids were angry at the movement itself, and at junkies, as well as the drugs themselves. People involved on the political spectrum of crust punk hate "fascists" and want to promote a more freeing government or a lack there of.
 
@@ -66,7 +66,7 @@ Here's a list of reasons as to why the pagan black metal movement and the left w
 * The music was where it centred
 
 
-### Conclusion 
+### Conclusion
 
 I don't know if I'm right but take from this as you wish. I also managed to go through this whole piece without making a wolves in the throne room joke... 
 
