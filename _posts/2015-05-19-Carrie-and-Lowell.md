@@ -3,7 +3,7 @@ layout:     post
 title:      "Carrie and Lowell"
 subtitle:   "True lyricist colours that become muted with time."
 date:       2015-05-18 12:00:00
-author:     "Dawson Brown"
+author:     "Dawson"
 header-img: "img/carrie.png"
 ---
 

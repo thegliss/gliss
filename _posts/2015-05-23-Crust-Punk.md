@@ -3,7 +3,7 @@ layout:     post
 title:      "Crust Punk, Black Metal, Straight Edge."
 subtitle:   "And how to make music a movement."
 date:       2015-05-23
-author:     "Dawson Brown"
+author:     "Dawson"
 header-img: "img/crust.png"
 ---
 
