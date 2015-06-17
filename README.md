@@ -13,7 +13,7 @@ You can contact us through the contact page, we’ll get back to you as quickly 
 Enjoy your time here at The Gliss.
 
 
-Contributing :octo-cat:
+Contributing :octocat:
 -----------------------
 
 Wanna guest post? Follow the steps below:
