@@ -2,7 +2,7 @@
 layout:     post
 title:      "Carrie and Lowell"
 subtitle:   "True lyricist colours that become muted with time."
-date:       2015-05-18 12:00:00
+date:       2015-05-18
 author:     "Dawson"
 header-img: "img/carrie.png"
 ---
@@ -27,5 +27,7 @@ There are other examples of Good tracks. The title track *Carrie and Lowell* has
 Sufjan Stevens is in no way a bad songwriter, but his spontaneous nature on this album weakens his true voice. The first half especially makes him look like an amateur, and his true lyricist colours aren’t shown properly, and it makes the listener groan at his perceived “fakeness”. The second half is pretty good but nothing to put on your playlist or to play for fun. When you’re having a depressive episode you could consider it.
 
 
-**Overall**: Not a good album, some tracks are great however, you’ll just need to hit the skip button a lot to get past the groaning. On a number system I’d give Carrie and Lowell: 2/10 for the first half and 6/10 for the second. 5/10 overall, wouldn’t recommend.
+### Verdict
+
+Not a good album, some tracks are great however, you’ll just need to hit the skip button a lot to get past the groaning. On a number system I’d give Carrie and Lowell: 2/10 for the first half and 6/10 for the second. 5/10 overall, wouldn’t recommend.
 
